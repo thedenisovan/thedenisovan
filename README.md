@@ -1,15 +1,15 @@
-<!--
-## Hi there 👋
-**mozartdd/mozartdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! 👋
 
-Here are some ideas to get you started:
+I'm Dainis Dilevka, a tech tinkerer based in London, UK. My motto is: "The best time to plant a tree was 15 years ago. The second best time is today." I'm passionate about rebuilding life one line of code at a time!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+js,html,css,c,webpack,jest,react,apple,linux,nodejs,npm,vscode,git,github,figma,webflow
+
+## 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mozartdd&show_icons=true&theme=radical)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mozartdd&theme=dark)](https://git.io/streak-stats)
+
