@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Dainis Dilevka, a tech tinkerer based in London, UK. My motto is: "The best time to plant a tree was 15 years ago. The second best time is today." I'm passionate about rebuilding life one line of code at a time!
+I'm Dainis Dilevka, a tech tinkerer based in  UK. My motto is: "The best time to plant a tree was 15 years ago. The second best time is today." I'm passionate about rebuilding life one line of code at a time!
 
 ## Skills & Technologies
 
