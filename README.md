@@ -28,6 +28,3 @@ I'm Dainis Dilevka, a tech tinkerer based in  UK. My motto is: "The best time to
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-<div style='display:flex;'><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedenisovan&" alt="thedenisovan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedenisovan&show_icons=true&locale=en" alt="thedenisovan" /></p></div>
