@@ -3,7 +3,7 @@
 I'm Dainis Dilevka, a tech tinkerer based in  UK. My motto is: "The best time to plant a tree was 15 years ago. The second best time is today." I'm passionate about rebuilding life one line of code at a time!
 
 # 💫 About Me:
-🔭 I’m currently learning React and Tailwind CSS.<br>💬 If you have any type of question dont hesitate and contact me on my linkedIn profile.
+🔭 I’m currently learning React and TypeScript.<br>💬 If you have any type of question dont hesitate and contact me on my linkedIn profile.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainis-dilevka-961a332b4/)
