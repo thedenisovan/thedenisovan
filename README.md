@@ -5,7 +5,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 About Me 
 
 - 🔭 Currently learning **SQL**  
 - ⚙️ Focused on crafting clean, efficient, and scalable front-end systems  
