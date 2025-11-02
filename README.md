@@ -7,7 +7,7 @@
 
 ## 💫 About Me 
 
-- 🔭 Currently learning **SQL**  
+- 🔭 Currently learning **Node.js**  
 - ⚙️ Focused on crafting clean, efficient, and scalable front-end systems  
 - 💬 Open to questions — reach out via my **[LinkedIn](https://www.linkedin.com/in/dainis-dilevka-961a332b4/)**  
 
