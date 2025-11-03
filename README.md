@@ -8,7 +8,7 @@
 ## 💫 About Me 
 
 - 🔭 Currently learning **Node.js**  
-- ⚙️ Focused on crafting clean, efficient, and scalable front-end systems  
+- ⚙️ Focused on crafting clean, efficient, and scalable front-end systems (currently learning how to make websites alive with backend) 
 - 💬 Open to questions — reach out via my **[LinkedIn](https://www.linkedin.com/in/dainis-dilevka-961a332b4/)**  
 
 ---
