@@ -11,7 +11,7 @@
 ## 💫 About Me 
 
 - 🔭 Currently learning **Node.js**  
-- ⚙️ Focused on crafting clean, efficient, and scalable front-end systems (currently learning how to make websites alive with backend) 
+- ⚙️ Focused on crafting clean, efficient, and scalable full-stack systems
 - 💬 Open to questions — reach out via my **[LinkedIn](https://www.linkedin.com/in/dainis-dilevka-961a332b4/)**  
 
 ---
@@ -23,7 +23,6 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thedenisovan&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedenisovan&layout=compact&theme=tokyonight&hide_border=true) 
 
 ---
