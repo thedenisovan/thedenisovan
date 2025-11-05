@@ -16,23 +16,19 @@
 
 ---
 
-## 🌐 Connect With Me
+<h3>💻 Tech Stack</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainis-dilevka-961a332b4/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedenisovan)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,postgres,react,tailwind,vite,webpack,jest,vitest,nodejs,npm,vscode,git,github,linux,apple,cloudflare&perline=10)](https://skillicons.dev)  
 
 ---
+
+<h3>⏺️ Stats</h3>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedenisovan&layout=compact&theme=tokyonight&hide_border=true) 
 
 ---
 
-<h3>💻 Tech Stack</h3>
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,postgres,react,tailwind,vite,webpack,jest,vitest,nodejs,npm,vscode,git,github,linux,apple,cloudflare" />
-  </a>
-</p>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainis-dilevka-961a332b4/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedenisovan)
