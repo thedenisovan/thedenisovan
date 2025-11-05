@@ -1,5 +1,5 @@
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00bFFF&width=600&lines=Hi%2C+I'm+Dainis+Dilevka;Aspiring+Self+Tought+Full+Stack+Developer;Let's+Build+Cool+Stuff!)](https://github.com/devxsameer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00bFFF&width=600&lines=Hi%2C+I'm+Dainis+Dilevka;Aspiring+Self+Tought+Full+Stack+Developer;Also+a+funny+guy;Let's+Build+Cool+Stuff!)](https://github.com/devxsameer)
 
 # 👋 Hi there, I'm Dainis Dilevka  
 
@@ -12,7 +12,7 @@
 
 - 🔭 Currently learning **Node.js**  
 - ⚙️ Focused on crafting clean, efficient, and scalable full-stack systems
-- 💬 Open to questions — reach out via my **[LinkedIn](https://www.linkedin.com/in/dainis-dilevka-961a332b4/)**  
+- 💬 Open to questions — reach out via my **[LinkedIn](https://www.linkedin.com/in/dainis-dilevka-961a332b4/)**, I'm open to work and new connections 🙂
 
 ---
 
