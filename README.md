@@ -11,7 +11,7 @@
 ## 💫 About Me 
 
 - 🔭 Currently learning **Node.js**  
-- ⚙️ Focused on crafting clean, efficient, and scalable full-stack systems
+- 🌎 Building software that makes an impact — or at least earns my freedom.
 - 💬 Open to questions — reach out via my **[LinkedIn](https://www.linkedin.com/in/dainis-dilevka-961a332b4/)**, I'm open to work and new connections 🙂
 
 ---
