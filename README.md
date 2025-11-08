@@ -22,7 +22,7 @@
 
 ---
 
-<h3>⏺️ Stats</h3>
+<h3>ℹ️ Stats</h3>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedenisovan&layout=compact&theme=tokyonight&hide_border=true) 
 
