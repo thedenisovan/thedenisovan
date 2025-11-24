@@ -1,7 +1,7 @@
 <!-- Typing SVG Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00bFFF&width=1000&lines=Hi%2C+I'm+Dainis+Dilevka;Aspiring+Self+Tought+Full+Stack+Developer;Also+a+funny+guy;Let's+Build+Cool+Stuff!)](https://github.com/devxsameer)
 
-# 👋 Hi there, I'm Dainis Dilevka  
+# 👋 Hi there, my name is Dainis Dilevka  
 
 > "The best time to plant a tree was 15 years ago. The second best time is today." 🌱  
 > Rebuilding life one line of code at a time.
