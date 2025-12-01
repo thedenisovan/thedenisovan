@@ -3,8 +3,9 @@
 
 # 👋 Hi there, my name is Dainis Dilevka  
 
+> My favorite quote is:
+
 > "The best time to plant a tree was 15 years ago. The second best time is today." 🌱  
-> Rebuilding life one line of code at a time.
 
 ---
 
