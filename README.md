@@ -22,8 +22,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,postgres,react,tailwind,vite,webpack,jest,vitest,nodejs,npm,vscode,git,github,linux,apple,cloudflare,express,prisma&perline=11)](https://skillicons.dev)  
 
 ---
-
+<!--
 <h3>ℹ️ Stats</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedenisovan&layout=compact&theme=tokyonight&hide_border=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedenisovan&layout=compact&theme=tokyonight&hide_border=false) 
 
