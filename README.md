@@ -19,6 +19,3 @@
 <h3>💻 Tech Stack</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,postgres,react,tailwind,vite,webpack,jest,vitest,nodejs,npm,vscode,git,github,linux,apple,cloudflare,express,prisma&perline=11)](https://skillicons.dev)  
-
----
-
