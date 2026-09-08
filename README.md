@@ -8,8 +8,4 @@
 ## About Me 
 
 - Building software that makes an impact — or at least earns my freedom.
-- Open to questions — reach out via my **[LinkedIn](https://www.linkedin.com/in/dainis-dilevka-961a332b4/)**, I'm open to work and interesting proposals
-
-<!-- <h3>💻 Tech Stack</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,c,html,css,sass,react,tailwind,bootstrap,vite,webpack,nodejs,express,prisma,postgres,npm,git,github,vscode,postman,jest,vitest,cloudflare,linux,windows,apple&perline=9)](https://skillicons.dev) -->
+- Open to questions — reach out via my **[LinkedIn](https://www.linkedin.com/in/dainis-dilevka-961a332b4/)**, I'm open to work and interesting proposals.
